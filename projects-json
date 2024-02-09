@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Hol a piros?",
+        "technologies": "CSS3,HTML5, javascript",
+        "gitHub": "https://github.com/Bianka191122",
+        "hosted": "https://bianka191122.github.io/Hol-a-piros-/",
+        "images": "",
+        "createdAt": "2024.02.09."
+    },
+    {
+        "id": 2,
+        "title": "BMI kalkulátor",
+        "technologies": "CSS3,HTML5, javascript",
+        "gitHub": "https://github.com/Bianka191122",
+        "hosted": "https://bianka191122.github.io/BMI",
+        "images": "",
+        "createdAt": "2024.02.09."
+    }
+]
